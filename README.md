@@ -11,4 +11,4 @@ O Batch Scripting funciona através da interpretação dos comandos contidos no 
 
 * E utilizado para criar e nomer a pasta
 * EX:O nome do pasta sera banana 
-  [Descrição da Imagem]("C:\Users\Aluno\Downloads\Captura de tela 2025-02-11 160337 banana.png")
+  [Descrição da Imagem](./img/terminal.png)
