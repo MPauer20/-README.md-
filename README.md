@@ -7,7 +7,8 @@ O Batch Scripting funciona através da interpretação dos comandos contidos no 
 
 ## Comando do Batch Scripting
 
-## Alias
+## Mkdir
 
-* E utilizado em sistemas Unix e Linux para criar um atalho ou um nome alternativo para um comando ou uma sequência de comandos. Isso pode facilitar a execução de comandos longos ou complexos, permitindo que você os chame por um nome mais curto e fácil de lembrar.
-  [Descrição da Imagem](https
+* E utilizado para criar e nomer a pasta
+* EX:O nome do pasta sera banana 
+  [Descrição da Imagem]("C:\Users\Aluno\Downloads\Captura de tela 2025-02-11 160337 banana.png")
