@@ -28,6 +28,12 @@ O Batch Scripting funciona através da interpretação dos comandos contidos no 
 
 ![image](https://github.com/user-attachments/assets/e063892e-15b8-478f-a437-bd8825921708)
 
+## CD
+* Entrar dentro da pasta
+
+* ![image](https://github.com/user-attachments/assets/745723d9-bb8a-4b13-a902-f820bf3fcbf1)
+
+
 
 
 
