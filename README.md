@@ -31,7 +31,26 @@ O Batch Scripting funciona através da interpretação dos comandos contidos no 
 ## CD
 * Entrar dentro da pasta
 
-* ![image](https://github.com/user-attachments/assets/745723d9-bb8a-4b13-a902-f820bf3fcbf1)
+ ![image](https://github.com/user-attachments/assets/745723d9-bb8a-4b13-a902-f820bf3fcbf1)
+
+  ## Rename
+  * Serve para mudar o nome do arquivo ou pasta
+
+    ![image](https://github.com/user-attachments/assets/cbe70194-8432-49d1-bcf6-218882355100)
+
+    ## Rmdir
+    * Serve para apagar diretorio
+    * 
+![image](https://github.com/user-attachments/assets/1e53c42b-c752-43ea-aa16-fab9b5a95055)
+
+
+   ## Del
+* Serve para apagar arquivo
+ ![image](https://github.com/user-attachments/assets/03b055a1-e1d8-49ca-a691-b2a4379f83d2)
+
+
+   
+
 
 
 
