@@ -49,6 +49,8 @@ O Batch Scripting funciona através da interpretação dos comandos contidos no 
  ![image](https://github.com/user-attachments/assets/03b055a1-e1d8-49ca-a691-b2a4379f83d2)
 
 
+ ## Cls
+ *serve para apagar os codigos 
    
 
 
